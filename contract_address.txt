@@ -1,0 +1,7 @@
+MyToken contract address:
+
+0x235Fe66A861C10a187591544413a0a7dA97211aC
+
+TokenExchange contract address:
+
+0x71E9F23Db8D9a975837f28De1215A6FE9d4e148c
